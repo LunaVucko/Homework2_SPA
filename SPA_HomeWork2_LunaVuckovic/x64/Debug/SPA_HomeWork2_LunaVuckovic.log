@@ -1,0 +1,5 @@
+﻿  game_of_life.cpp
+C:\Users\Acer\Documents\Semester 2\Data structures and algorithms\2022-2023\Homeworks\HW2\SPA_HomeWork2_LunaVuckovic\SPA_HomeWork2_LunaVuckovic\game_of_life.cpp(57,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  program.cpp
+  Generating Code...
+  SPA_HomeWork2_LunaVuckovic.vcxproj -> C:\Users\Acer\Documents\Semester 2\Data structures and algorithms\2022-2023\Homeworks\HW2\SPA_HomeWork2_LunaVuckovic\x64\Debug\SPA_HomeWork2_LunaVuckovic.exe
